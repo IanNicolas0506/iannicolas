@@ -24,39 +24,42 @@ Partial Class Form1
     Private Sub InitializeComponent()
         components = New ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
-        TextBox1 = New TextBox()
-        TextBox2 = New TextBox()
+        username_txt = New TextBox()
+        password_txt = New TextBox()
         Label3 = New Label()
-        Button1 = New Button()
-        Button3 = New Button()
+        login_btn = New Button()
+        register_btn = New Button()
         ImageList1 = New ImageList(components)
         Label1 = New Label()
         Label2 = New Label()
         Label4 = New Label()
         SuspendLayout()
         ' 
-        ' TextBox1
+        ' username_txt
         ' 
-        TextBox1.BackColor = Color.Black
-        TextBox1.BorderStyle = BorderStyle.FixedSingle
-        TextBox1.CausesValidation = False
-        TextBox1.Font = New Font("Times New Roman", 14F)
-        TextBox1.ForeColor = Color.White
-        TextBox1.Location = New Point(75, 300)
-        TextBox1.Name = "TextBox1"
-        TextBox1.Size = New Size(346, 34)
-        TextBox1.TabIndex = 0
+        username_txt.BackColor = Color.Black
+        username_txt.BorderStyle = BorderStyle.FixedSingle
+        username_txt.CausesValidation = False
+        username_txt.Font = New Font("Times New Roman", 14F)
+        username_txt.ForeColor = Color.White
+        username_txt.Location = New Point(66, 225)
+        username_txt.Margin = New Padding(3, 2, 3, 2)
+        username_txt.Name = "username_txt"
+        username_txt.Size = New Size(303, 29)
+        username_txt.TabIndex = 0
         ' 
-        ' TextBox2
+        ' password_txt
         ' 
-        TextBox2.BackColor = Color.Black
-        TextBox2.BorderStyle = BorderStyle.FixedSingle
-        TextBox2.Font = New Font("Times New Roman", 14F)
-        TextBox2.ForeColor = Color.White
-        TextBox2.Location = New Point(75, 350)
-        TextBox2.Name = "TextBox2"
-        TextBox2.Size = New Size(346, 34)
-        TextBox2.TabIndex = 1
+        password_txt.BackColor = Color.Black
+        password_txt.BorderStyle = BorderStyle.FixedSingle
+        password_txt.Font = New Font("Times New Roman", 14F)
+        password_txt.ForeColor = Color.White
+        password_txt.Location = New Point(66, 262)
+        password_txt.Margin = New Padding(3, 2, 3, 2)
+        password_txt.Name = "password_txt"
+        password_txt.PasswordChar = "*"c
+        password_txt.Size = New Size(303, 29)
+        password_txt.TabIndex = 1
         ' 
         ' Label3
         ' 
@@ -65,35 +68,37 @@ Partial Class Form1
         Label3.BorderStyle = BorderStyle.FixedSingle
         Label3.Font = New Font("Times New Roman", 24F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Label3.Image = CType(resources.GetObject("Label3.Image"), Image)
-        Label3.Location = New Point(12, 9)
+        Label3.Location = New Point(10, 7)
         Label3.Name = "Label3"
-        Label3.Size = New Size(120, 47)
+        Label3.Size = New Size(97, 38)
         Label3.TabIndex = 4
         Label3.Text = "Login"
         ' 
-        ' Button1
+        ' login_btn
         ' 
-        Button1.BackColor = Color.Black
-        Button1.Font = New Font("Times New Roman", 14F)
-        Button1.ForeColor = SystemColors.ButtonFace
-        Button1.Location = New Point(248, 390)
-        Button1.Name = "Button1"
-        Button1.Size = New Size(107, 37)
-        Button1.TabIndex = 6
-        Button1.Text = "Login"
-        Button1.UseVisualStyleBackColor = False
+        login_btn.BackColor = Color.Black
+        login_btn.Font = New Font("Times New Roman", 14F)
+        login_btn.ForeColor = SystemColors.ButtonFace
+        login_btn.Location = New Point(217, 292)
+        login_btn.Margin = New Padding(3, 2, 3, 2)
+        login_btn.Name = "login_btn"
+        login_btn.Size = New Size(94, 28)
+        login_btn.TabIndex = 6
+        login_btn.Text = "Login"
+        login_btn.UseVisualStyleBackColor = False
         ' 
-        ' Button3
+        ' register_btn
         ' 
-        Button3.BackColor = Color.Black
-        Button3.Font = New Font("Times New Roman", 14F)
-        Button3.ForeColor = SystemColors.ButtonFace
-        Button3.Location = New Point(135, 390)
-        Button3.Name = "Button3"
-        Button3.Size = New Size(107, 37)
-        Button3.TabIndex = 8
-        Button3.Text = "Register"
-        Button3.UseVisualStyleBackColor = False
+        register_btn.BackColor = Color.Black
+        register_btn.Font = New Font("Times New Roman", 14F)
+        register_btn.ForeColor = SystemColors.ButtonFace
+        register_btn.Location = New Point(118, 292)
+        register_btn.Margin = New Padding(3, 2, 3, 2)
+        register_btn.Name = "register_btn"
+        register_btn.Size = New Size(94, 28)
+        register_btn.TabIndex = 8
+        register_btn.Text = "Register"
+        register_btn.UseVisualStyleBackColor = False
         ' 
         ' ImageList1
         ' 
@@ -105,45 +110,46 @@ Partial Class Form1
         ' 
         Label1.BackColor = Color.Transparent
         Label1.Image = CType(resources.GetObject("Label1.Image"), Image)
-        Label1.Location = New Point(35, 300)
+        Label1.Location = New Point(31, 225)
         Label1.Name = "Label1"
-        Label1.Size = New Size(34, 34)
+        Label1.Size = New Size(30, 26)
         Label1.TabIndex = 9
         ' 
         ' Label2
         ' 
         Label2.BackColor = Color.Transparent
         Label2.Image = CType(resources.GetObject("Label2.Image"), Image)
-        Label2.Location = New Point(35, 350)
+        Label2.Location = New Point(31, 262)
         Label2.Name = "Label2"
-        Label2.Size = New Size(34, 34)
+        Label2.Size = New Size(30, 26)
         Label2.TabIndex = 10
         ' 
         ' Label4
         ' 
         Label4.BackColor = Color.Transparent
         Label4.Image = CType(resources.GetObject("Label4.Image"), Image)
-        Label4.Location = New Point(147, 81)
+        Label4.Location = New Point(129, 61)
         Label4.Name = "Label4"
-        Label4.Size = New Size(183, 168)
+        Label4.Size = New Size(160, 126)
         Label4.TabIndex = 11
         ' 
         ' Form1
         ' 
-        AutoScaleDimensions = New SizeF(8F, 20F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), Image)
         BackgroundImageLayout = ImageLayout.Center
-        ClientSize = New Size(462, 473)
+        ClientSize = New Size(404, 355)
         Controls.Add(Label4)
         Controls.Add(Label2)
         Controls.Add(Label1)
-        Controls.Add(Button3)
-        Controls.Add(Button1)
+        Controls.Add(register_btn)
+        Controls.Add(login_btn)
         Controls.Add(Label3)
-        Controls.Add(TextBox2)
-        Controls.Add(TextBox1)
+        Controls.Add(password_txt)
+        Controls.Add(username_txt)
         Icon = CType(resources.GetObject("$this.Icon"), Icon)
+        Margin = New Padding(3, 2, 3, 2)
         MaximizeBox = False
         MinimizeBox = False
         Name = "Form1"
@@ -152,11 +158,11 @@ Partial Class Form1
         PerformLayout()
     End Sub
 
-    Friend WithEvents TextBox1 As TextBox
-    Friend WithEvents TextBox2 As TextBox
+    Friend WithEvents username_txt As TextBox
+    Friend WithEvents password_txt As TextBox
     Friend WithEvents Label3 As Label
-    Friend WithEvents Button1 As Button
-    Friend WithEvents Button3 As Button
+    Friend WithEvents login_btn As Button
+    Friend WithEvents register_btn As Button
     Friend WithEvents ImageList1 As ImageList
     Friend WithEvents Label1 As Label
     Friend WithEvents Label2 As Label
