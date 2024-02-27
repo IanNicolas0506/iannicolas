@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\iannicolas\\Test\\Test\\Test.vbproj": {}
+    "C:\\Users\\Admin\\source\\repos\\try\\try\\try.vbproj": {}
   },
   "projects": {
-    "C:\\git\\iannicolas\\Test\\Test\\Test.vbproj": {
+    "C:\\Users\\Admin\\source\\repos\\try\\try\\try.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\iannicolas\\Test\\Test\\Test.vbproj",
-        "projectName": "Test",
-        "projectPath": "C:\\git\\iannicolas\\Test\\Test\\Test.vbproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\try\\try\\try.vbproj",
+        "projectName": "try",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\try\\try\\try.vbproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\iannicolas\\Test\\Test\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\try\\try\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

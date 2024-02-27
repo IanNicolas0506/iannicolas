@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\try\try\bin\Debug\net8.0-windows\try.exe
+C:\Users\Admin\source\repos\try\try\bin\Debug\net8.0-windows\try.deps.json
+C:\Users\Admin\source\repos\try\try\bin\Debug\net8.0-windows\try.runtimeconfig.json
+C:\Users\Admin\source\repos\try\try\bin\Debug\net8.0-windows\try.dll
+C:\Users\Admin\source\repos\try\try\bin\Debug\net8.0-windows\try.pdb
+C:\Users\Admin\source\repos\try\try\obj\Debug\net8.0-windows\try.Form1.resources
+C:\Users\Admin\source\repos\try\try\obj\Debug\net8.0-windows\try.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\try\try\obj\Debug\net8.0-windows\try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\try\try\obj\Debug\net8.0-windows\try.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\try\try\obj\Debug\net8.0-windows\try.AssemblyInfo.vb
+C:\Users\Admin\source\repos\try\try\obj\Debug\net8.0-windows\try.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\try\try\obj\Debug\net8.0-windows\try.dll
+C:\Users\Admin\source\repos\try\try\obj\Debug\net8.0-windows\refint\try.dll
+C:\Users\Admin\source\repos\try\try\obj\Debug\net8.0-windows\try.pdb
+C:\Users\Admin\source\repos\try\try\obj\Debug\net8.0-windows\try.genruntimeconfig.cache
+C:\Users\Admin\source\repos\try\try\obj\Debug\net8.0-windows\ref\try.dll
+C:\Users\Admin\source\repos\try\try\obj\Debug\net8.0-windows\try.Form2.resources
