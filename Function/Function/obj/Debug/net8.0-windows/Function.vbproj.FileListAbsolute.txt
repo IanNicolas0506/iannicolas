@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Function\Function\bin\Debug\net8.0-windows\Function.exe
+C:\Users\Admin\source\repos\Function\Function\bin\Debug\net8.0-windows\Function.deps.json
+C:\Users\Admin\source\repos\Function\Function\bin\Debug\net8.0-windows\Function.runtimeconfig.json
+C:\Users\Admin\source\repos\Function\Function\bin\Debug\net8.0-windows\Function.dll
+C:\Users\Admin\source\repos\Function\Function\bin\Debug\net8.0-windows\Function.pdb
+C:\Users\Admin\source\repos\Function\Function\obj\Debug\net8.0-windows\Function.Form1.resources
+C:\Users\Admin\source\repos\Function\Function\obj\Debug\net8.0-windows\Function.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Function\Function\obj\Debug\net8.0-windows\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Function\Function\obj\Debug\net8.0-windows\Function.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Function\Function\obj\Debug\net8.0-windows\Function.AssemblyInfo.vb
+C:\Users\Admin\source\repos\Function\Function\obj\Debug\net8.0-windows\Function.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Function\Function\obj\Debug\net8.0-windows\Function.dll
+C:\Users\Admin\source\repos\Function\Function\obj\Debug\net8.0-windows\refint\Function.dll
+C:\Users\Admin\source\repos\Function\Function\obj\Debug\net8.0-windows\Function.pdb
+C:\Users\Admin\source\repos\Function\Function\obj\Debug\net8.0-windows\Function.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Function\Function\obj\Debug\net8.0-windows\ref\Function.dll
