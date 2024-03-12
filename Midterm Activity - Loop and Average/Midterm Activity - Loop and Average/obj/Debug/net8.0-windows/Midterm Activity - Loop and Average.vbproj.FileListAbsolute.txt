@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\bin\Debug\net8.0-windows\Midterm Activity - Loop and Average.exe
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\bin\Debug\net8.0-windows\Midterm Activity - Loop and Average.deps.json
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\bin\Debug\net8.0-windows\Midterm Activity - Loop and Average.runtimeconfig.json
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\bin\Debug\net8.0-windows\Midterm Activity - Loop and Average.dll
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\bin\Debug\net8.0-windows\Midterm Activity - Loop and Average.pdb
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\obj\Debug\net8.0-windows\Midterm_Activity___Loop_and_Average.Form1.resources
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\obj\Debug\net8.0-windows\Midterm Activity - Loop and Average.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\obj\Debug\net8.0-windows\Midterm Activity - Loop and Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\obj\Debug\net8.0-windows\Midterm Activity - Loop and Average.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\obj\Debug\net8.0-windows\Midterm Activity - Loop and Average.AssemblyInfo.vb
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\obj\Debug\net8.0-windows\Midterm Activity - Loop and Average.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\obj\Debug\net8.0-windows\Midterm Activity - Loop and Average.dll
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\obj\Debug\net8.0-windows\refint\Midterm Activity - Loop and Average.dll
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\obj\Debug\net8.0-windows\Midterm Activity - Loop and Average.pdb
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\obj\Debug\net8.0-windows\Midterm Activity - Loop and Average.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Midterm Activity - Loop and Average\Midterm Activity - Loop and Average\obj\Debug\net8.0-windows\ref\Midterm Activity - Loop and Average.dll
